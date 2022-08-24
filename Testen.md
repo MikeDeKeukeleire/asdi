@@ -114,4 +114,4 @@ Mockito.verify(mikeyMock).method();
 
 ## Opbouw JUnit test
 
-Idem als hieroven, alleen zonder mockito implementatie!
+Idem als hieroven, alleen zonder mockito implementatie!!
